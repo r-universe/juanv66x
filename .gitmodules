@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "viraldomain"]
+	path = viraldomain
+	url = https://github.com/cran/viraldomain
 [submodule "viralmodels"]
 	path = viralmodels
 	url = https://github.com/cran/viralmodels
