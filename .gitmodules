@@ -11,3 +11,6 @@
 [submodule "viralx"]
 	path = viralx
 	url = https://github.com/cran/viralx
+[submodule "viruslearner"]
+	path = viruslearner
+	url = https://github.com/juanv66x/viruslearner
