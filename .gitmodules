@@ -10,7 +10,7 @@
 	url = https://github.com/juanv66x/viraldomain
 [submodule "viralmodels"]
 	path = viralmodels
-	url = https://github.com/cran/viralmodels
+	url = https://github.com/juanv66x/viralmodels
 [submodule "viralx"]
 	path = viralx
 	url = https://github.com/cran/viralx
